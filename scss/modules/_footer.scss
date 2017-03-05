@@ -1,0 +1,70 @@
+
+.myfooter {
+    min-height: 120px;
+    background-color: #141F29;
+    color: white;
+    padding: 0;
+    text-align: center;
+    font-family: title-font;
+    font-size: 14px;
+}
+
+#footerlogo {
+    width: 200px;
+    padding-top: 50px;
+}
+
+.pagelink ul {
+    padding-left: 0px;
+    margin: 0
+}
+
+.pagelink ul li {
+    display: inline-block;
+    list-style: none;
+    text-align: center;
+    padding-top: 55px;
+    margin-bottom: 40px;
+    margin-right: 5px;
+    margin-right: 5px;
+}
+
+.pagelink ul li a:hover {
+    color: #B8B8B9;
+    text-decoration: none;
+}
+
+.pagelink ul li a {
+    color: white;
+}
+
+.div8 {
+    margin-left: auto;
+    margin-left: auto;
+}
+
+.list-sociallink {
+    display: inline-block;
+    text-align: center;
+    list-style: none;
+    padding-left: 0;
+}
+
+.sociallink {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #293540;
+    margin-top: 45px;
+    padding-top: 8px;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.sociallink:hover {
+  background-color:#565D63;
+}
+
+.fa {
+    color: #141F29;
+}

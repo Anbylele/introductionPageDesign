@@ -1,0 +1,70 @@
+.navbar {
+    padding: 15px 20px 5px 20px;
+    font-family: title-font;
+    font-size: 14px;
+    font-weight: normal;
+    color: #666666
+
+}
+
+.navbar-default {
+    background-image: none;
+    border: none;
+    min-height: 80px;
+}
+.nav-top {
+  background-color: transparent;
+  transition: 1s;
+}
+.nav-scroll-white {
+    background-color: #f8f8f8;
+    transition: 1s;
+    box-shadow: 0 1px 6px rgba(144, 143, 143, 0.4);
+}
+.nav li a {
+  padding: 15px 10px;
+}
+.navbar-brand {
+ padding-right: 0;
+}
+#nav-logo {
+    margin-top: -5px;
+    margin-left: 0;
+    max-width: 95%;
+    height: auto;
+}
+@media screen and (max-width:800px) {
+  #nav-logo {
+    width: 180px;
+  }
+  .navbar {
+    padding: 15px 0 10px 0;
+  }
+  .btn-lg {
+    margin-left: 15px;
+  }
+  .nav li a {
+    margin-left: 15px;
+  }
+}
+.btn-lg {
+    margin-right: 15px;
+    margin-bottom: 15px;
+    border: 1px solid #939393;
+    background-color: #95C14E;
+    color: white;
+    font-size: 14px;
+    padding: 14px 25px;
+}
+.btn-creat:hover {
+  background-color: #86B330;
+  color: white;
+}
+.btn-log {
+    background-color: transparent;
+    color: #555;
+}
+.btn-log:hover {
+  background-color: rgba(0,0,0,0.03);
+  color: #888;
+}

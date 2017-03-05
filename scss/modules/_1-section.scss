@@ -1,0 +1,31 @@
+.section-1 {
+  background-image:url(../image/pos_section1_bg.png);
+  background-repeat: none;
+  background-size: cover;
+  height: 100vh;
+  min-height: 650px;
+  background-position: center;
+  position: relative;
+  overflow: hidden;
+}
+.slogan {
+  margin: 20px 0px;
+  color: #666666;
+}
+.content-1 {
+  margin: 170px 0;
+  padding-left: 4%;
+}
+.button-1 {
+  margin-top: 40px;
+}
+.float-img-1 {
+  position: absolute;
+  left:520px;
+  top:260px;
+  min-top:300px;
+  transition: 1s;
+}
+.test {
+  height: 800px;
+}

@@ -1,0 +1,77 @@
+//section-title
+.section-title {
+  padding-top: 70px;
+  padding-bottom: 40px;
+}
+.between-line {
+  padding-top: 20px;
+}
+.light-dark {
+  color: #666666;
+}
+.light-grey {
+  color: #939393;
+}
+.lighr-green {
+  color: #86B330;
+}
+.section-3-left {
+  padding-left: 8%;
+  padding-right: 8%;
+  padding-top: 40px;
+}
+.icon-3 {
+  width: 80px;
+}
+.section-3-content {
+  padding-bottom: 40px;
+}
+.section-3-content h3 {
+  padding-bottom: 20px;
+  font-size:19px;
+  font-weight: bold;
+}
+.section-3-content h5 {
+  line-height: 20px;
+}
+
+.section-3-container {
+  margin-top: 60px;
+
+}
+.section-3-right  {
+  overflow: hidden;
+  padding: 30px 0 0 20px;
+}
+.section-3-right img {
+  width: 100%;
+}
+@media screen and (max-width:760px) {
+  .section-3-right{
+    display:none;
+  }
+}
+.title-bottom {
+  background-color: #81B570;
+  color: white;
+  padding: 120px 0 100px 0;
+  margin-top: 10px;
+}
+.btn-creat-3 {
+  background-color: white;
+  color: #81B570;
+  border-color: white;
+}
+.btn-creat-3:hover {
+  background-color: rgba(224,224,224,0.1);
+  color:white;
+  box-shadow: 0px 0px 25px 1px rgba(255,255,255,0.43)
+}
+.ending {
+  padding: 10% 8%;
+  max-height: 300px;
+  overflow: hidden;
+}
+.ending-right {
+  margin-top: -6%;
+}
